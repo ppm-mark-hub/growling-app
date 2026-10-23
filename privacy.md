@@ -1,0 +1,1 @@
+Growling privacy policy. Growling is a personal app used only by its developer. It reads the developer’s own YouTube, Instagram and TikTok data through official APIs and stores it locally on the developer’s Mac. No data is shared, sold or sent to any server other than the platforms themselves. Contact: pokepackmark@gmail.com.
