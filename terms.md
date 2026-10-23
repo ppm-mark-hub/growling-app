@@ -1,0 +1,1 @@
+Growling terms of service. Growling is a personal, non-commercial app used only by its developer, Mark, to view his own social media data. It is not offered to the public, and no one else may use it. It is provided as is, with no warranties.
